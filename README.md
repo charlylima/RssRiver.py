@@ -3,7 +3,9 @@ rssriver.py
 
 A simple rss news ticker fetching different rss feeds, comparing what is new, 
 and displaying new items of all feeds on one page in chronological order. 
-Currently console based, no graphical user interface. 
+
+Additional to the console output, it now writes the news items to a web page.
+Just open the html file "rssriver.html" in a webbrowser. 
 
 Requirements:
 - Python 3
